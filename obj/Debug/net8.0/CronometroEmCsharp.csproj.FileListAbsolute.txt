@@ -1,0 +1,14 @@
+C:\projetosEmCSharp\CronometroEmCsharp\bin\Debug\net8.0\CronometroEmCsharp.exe
+C:\projetosEmCSharp\CronometroEmCsharp\bin\Debug\net8.0\CronometroEmCsharp.deps.json
+C:\projetosEmCSharp\CronometroEmCsharp\bin\Debug\net8.0\CronometroEmCsharp.runtimeconfig.json
+C:\projetosEmCSharp\CronometroEmCsharp\bin\Debug\net8.0\CronometroEmCsharp.dll
+C:\projetosEmCSharp\CronometroEmCsharp\bin\Debug\net8.0\CronometroEmCsharp.pdb
+C:\projetosEmCSharp\CronometroEmCsharp\obj\Debug\net8.0\CronometroEmCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetosEmCSharp\CronometroEmCsharp\obj\Debug\net8.0\CronometroEmCsharp.AssemblyInfoInputs.cache
+C:\projetosEmCSharp\CronometroEmCsharp\obj\Debug\net8.0\CronometroEmCsharp.AssemblyInfo.cs
+C:\projetosEmCSharp\CronometroEmCsharp\obj\Debug\net8.0\CronometroEmCsharp.csproj.CoreCompileInputs.cache
+C:\projetosEmCSharp\CronometroEmCsharp\obj\Debug\net8.0\CronometroEmCsharp.dll
+C:\projetosEmCSharp\CronometroEmCsharp\obj\Debug\net8.0\refint\CronometroEmCsharp.dll
+C:\projetosEmCSharp\CronometroEmCsharp\obj\Debug\net8.0\CronometroEmCsharp.pdb
+C:\projetosEmCSharp\CronometroEmCsharp\obj\Debug\net8.0\CronometroEmCsharp.genruntimeconfig.cache
+C:\projetosEmCSharp\CronometroEmCsharp\obj\Debug\net8.0\ref\CronometroEmCsharp.dll

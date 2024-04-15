@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projetosEmCSharp\\CronometroEmCsharp\\CronometroEmCsharp.csproj": {}
+  },
+  "projects": {
+    "C:\\projetosEmCSharp\\CronometroEmCsharp\\CronometroEmCsharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projetosEmCSharp\\CronometroEmCsharp\\CronometroEmCsharp.csproj",
+        "projectName": "CronometroEmCsharp",
+        "projectPath": "C:\\projetosEmCSharp\\CronometroEmCsharp\\CronometroEmCsharp.csproj",
+        "packagesPath": "C:\\Users\\alfre\\.nuget\\packages\\",
+        "outputPath": "C:\\projetosEmCSharp\\CronometroEmCsharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alfre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
